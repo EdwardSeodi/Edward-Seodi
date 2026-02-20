@@ -30,7 +30,12 @@ When I'm not working with data, I enjoy **soccer** and **reading books**. Curren
 - **Nedbank Job-Shadowing:** Gained hands-on experience in the Credit Risk Analytics team, focusing on modeling, variable analysis, and understanding credit risk frameworks.
   
 - **Data Analysis Exploration:** Working on personal data analysis exercises using Excel and Python to strengthen analytical and quantitative skills.
+- 
+## 🔭 Projects I'm Working On
 
+- **Sales Data Analysis & Data Cleaning Project:**  
+  Explored a dataset with 250 rows × 10 columns using Python and Pandas. Performed data cleaning, handled missing values, and conducted exploratory data analysis (EDA) to extract actionable insights.  
+  [View Project →](https://github.com/Romario11messi/Data-Analysis-Projects/tree/main/Sales-Data-Analysis)
 ---
 
 ## 🌱 Currently Learning 
